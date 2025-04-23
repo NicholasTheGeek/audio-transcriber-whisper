@@ -33,3 +33,4 @@ A clean and interactive full-stack app that lets you upload or record audio and 
 
 📽️ Demo
 📺 Watch the full project walkthrough on YouTube
+ https://youtu.be/WgoCvZD6ZBE
